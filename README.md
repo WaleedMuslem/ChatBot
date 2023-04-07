@@ -1,4 +1,4 @@
-## GPT-3.5-Turbo Website
+### GPT-3.5-Turbo Website
 This is a simple website that showcases the capabilities of the GPT-3.5-Turbo model API. The website is built with a backend using Express.js and a frontend using React.
 
 ## Getting Started
