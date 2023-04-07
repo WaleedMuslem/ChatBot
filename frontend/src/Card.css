@@ -1,0 +1,15 @@
+.card-container{
+    margin-top: 5rem;
+    margin-left: 2rem;
+    min-width: 1600px;
+    max-width: 1600px;
+    min-height: 270px;
+    max-height: 270px;
+    overflow-y: scroll;
+}
+@media only screen and (max-width: 1500px) {
+    .card-container {
+        min-width: 1300px;
+        max-width: 1300px;
+    }
+}
